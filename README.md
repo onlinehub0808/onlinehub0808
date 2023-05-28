@@ -1,5 +1,5 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Online Developer</h1>
-
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">The Only Way Out is to LEARN!</h1>
+<!-- 
 <!--
 **onlinedev0808/onlinedev0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
@@ -67,3 +67,4 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=onlinedev0808&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onlinedev0808&" alt="onlinedev" />
 </div>
+ -->
