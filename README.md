@@ -20,6 +20,9 @@ You have stayed on my page for:
 </div>
 <br>
   
+  
+  ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
