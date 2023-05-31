@@ -31,6 +31,9 @@ You have stayed on my page for:
 <img src="https://komarev.com/ghpvc/?username=EuJinnLucaShow&style=flat-square&color=blue" alt="" align="center"/>
 </div> -->
 
+<div align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=onlinedev0808&label=Profile%20Views&pretty=false" />
 </a>
+
+</div>
