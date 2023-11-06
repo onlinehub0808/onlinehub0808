@@ -7,7 +7,7 @@ You have stayed on my page for:
 <a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
 </p>
   
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Crazy Onliner - Sr.Full-Stack Developer</h1>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Crazy Onliner - Sr.Full Stack Developer</h1>
   </div>
   
 <div align="center">  
