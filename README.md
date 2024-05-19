@@ -4,6 +4,14 @@
 
 <!-- Short Introduction -->
 
+<h1 align = "left">
+  Hi, there. <img src="https://github.com/devtech77snake/devtech77snake/blob/main/wave.gif" width="30" />
+
+   ### Thanks for visiting :heart:
+  ![VisitorCount](https://profile-counter.glitch.me/onlinehub0808/count.svg)
+  &emsp;
+  
+</h1>
 <p>I am a software engineer who can push the envelope, with a wealth of experience in web and mobile development, as well as DevOps engineering. I am adept at leveraging technologies like Docker and Kubernetes, and I am well-versed in the cloud technology realm, such as AWS, with a deep well of knowledge and substantial experience in my toolkit.</p>
 
 #### Web Development
