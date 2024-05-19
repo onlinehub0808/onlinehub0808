@@ -13,8 +13,6 @@
 -   Back-End: Node.js, Express.js, Nest.js, Python, Django, Flask, Java, Spring Boot, Ruby on Rails, .Net
 -   Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB
 
-  <p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
-
 #### Mobile Development
 
 -   React Native
