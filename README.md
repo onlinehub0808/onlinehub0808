@@ -21,12 +21,14 @@
 -   Kotlin
 -   Bubble.io, FlutterFlow
 
-#### Tools & Others
+#### DevOps Engineering
 
--   Docker, Kubernetes, Ngnix, GitHub, Jenkins, Trello, Jira
--   Amazon Web Services(Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
+-   Docker, Kubernetes, Ngnix, GitHub, Jenkins
+-   Terraform, CDK, CloudFormation, Pulumi
+-   Amazon Web Services(AWS Lambda, API Gateway, EC2, S3, EKS, ECS, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
 -   Google Cloud Platform
 -   Microsoft Azure
+-   Trello, Jira
 
 <p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
 <p></p>
