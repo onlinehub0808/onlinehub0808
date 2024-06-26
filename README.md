@@ -19,6 +19,7 @@
 -   Basic: JavaScript, TypeScript, Python, Java, Ruby on Rails, Golang, C#, C++
 -   Front-End: React.js, Next.js, Redux, Zustand, AngularJS, Vue.js, Nuxt.js
 -   Back-End: Node.js, Express.js, Nest.js, Python, Django, Flask, Laravel, Java, Spring Boot, Ruby on Rails, .Net
+-   AI: GenerativeAI/OpenAI/ChatGPT/LLM
 -   Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB
 -   Tools: Jira, Trello
 
@@ -28,7 +29,8 @@
 -   Flutter/FlutterFlow
 -   Swift
 -   Kotlin
--   Bubble.io, 
+-   Push Notification/OneSignal
+-   Firebase/Supabase
 
 #### DevOps Engineering
 
